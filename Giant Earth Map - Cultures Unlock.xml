@@ -1,0 +1,211 @@
+<Data>
+
+    <Map Name="GiantEarth" MapTerritoryHash="-819807177,-288044546" LoadOrder="0"/>
+	
+    <MajorEmpireTerritories>
+		<Row Civilization="Civilization_Era1_Phoenicia"                Territories="188, 190, 106, 127, 95, 100, 99, 22"/>			<!-- Morocco, Carthage, Liban, Lybia, South Spain -->
+		<Row Civilization="Civilization_Era1_EgyptianKingdom"          Territories="128"/>											<!-- Egypt -->
+		<Row Civilization="Civilization_Era1_HittiteEmpire"            Territories="118"/>											<!-- East/West Anatiolia -->
+		<Row Civilization="Civilization_Era1_Babylon"                  Territories="142"/>											<!-- Iraq -->
+		<Row Civilization="Civilization_Era1_Assyria"                  Territories="123"/>											<!-- Iraq + Steppe -->
+		<Row Civilization="Civilization_Era1_HarappanCivilization"     Territories="207, 147, 145"/>								<!-- Pakistan, North India -->
+		<Row Civilization="Civilization_Era1_MycenaeanCivilization"    Territories="101, 102, 238"/>								<!-- Greece, Balkans, Thrace -->
+		<Row Civilization="Civilization_Era1_Nubia"                    Territories="233, 132, 209, 213"/>							<!-- Sudan, Abyssinian, Ethiopia/Somalia, Central African Republic -->
+		<Row Civilization="Civilization_Era1_ZhouChina"                Territories="162, 163, 164, 221"/>							<!-- China -->
+		<Row Civilization="Civilization_Era1_OlmecCivilization"        Territories="45, 41, 48, 219, 62, 58, 50, 47, 46"/>			<!-- South Mexico/Central America -->
+		<Row Civilization="Civilization_Era2_RomanEmpire"              Territories="100, 99, 102, 101, 22, 97, 98"/>				<!-- Italy, Balkans, Greece, South france, East Spain, Sardaigna -->
+		<Row Civilization="Civilization_Era2_Persia"                   Territories="243, 144, 146, 207, 142, 123, 118, 235"/>		<!-- Iran, Afghanistan, Pakistan, Iraq, Anatolia, Ballochistan -->
+		<Row Civilization="Civilization_Era2_MayaCivilization"         Territories="45, 219, 48"/>									<!-- South Mexico/Central America -->
+		<Row Civilization="Civilization_Era2_MauryaEmpire"             Territories="147, 231, 207, 145"/>							<!-- North India, Bengladesh, Pakistan -->
+		<Row Civilization="Civilization_Era2_Huns"                     Territories="226, 149, 124, 228, 205, 206 "/>				<!-- Volga, Scythia -->
+		<Row Civilization="Civilization_Era2_Goths"                    Territories="109, 117, 119, 120"/>							<!-- South Sweden, Poland, Ukraine, Baltica -->
+		<Row Civilization="Civilization_Era2_CelticCivilization"       Territories="24, 19, 20, 21, 22, 96"/>						<!-- France, British islands, NW Spain -->
+		<Row Civilization="Civilization_Era2_Carthage"                 Territories="190, 188, 98, 95"/>								<!-- Carthage, Morroco, Sardaigna, South Spain -->
+		<Row Civilization="Civilization_Era2_AncientGreece"            Territories="101, 102, 238, 103, 118"/>						<!-- Greece, Balkans, Bulgaria/Romania, Anatolia -->
+		<Row Civilization="Civilization_Era2_AksumiteEmpire"           Territories="132, 209, 143, 233"/>							<!-- Abyssinia, Ethiopia/Somalia, Sudan, Yemen -->
+		<Row Civilization="Civilization_Era3_Vikings"                  Territories="107, 109, 111, 112, 191, 152, 17, 11"/>			<!-- Norway, Sweden  -->
+		<Row Civilization="Civilization_Era3_UmayyadCaliphate"         Territories="106, 123, 142, 143, 227, 144, 243, 146, 207, 128, 127, 190, 188, 95"/>			<!-- Syria, West Anatolia, Iraq, Saudi Arabia, Iran, Afghanistan, Pakistan, Egypt, Libya, Carthage, Morroco, South Spain -->
+		<Row Civilization="Civilization_Era3_MongolEmpire"             Territories="225, 239, 240, 229, 161, 208, 187, 151, 206, 228, 230, 205, 149, 193"/>			<!-- Mongolia -->
+		<Row Civilization="Civilization_Era3_MedievalEngland"          Territories="21, 20"/>										<!-- South England  -->
+		<Row Civilization="Civilization_Era3_KhmerEmpire"              Territories="38, 167, 168"/>									<!-- Cambodia, Vietnam, Siam  -->
+		<Row Civilization="Civilization_Era3_HolyRomanEmpire"          Territories="105, 99, 23, 117, 104"/>						<!-- Germany -->
+		<Row Civilization="Civilization_Era3_GhanaEmpire"              Territories="125, 129, 126, 220, 212"/>						<!-- Mali -->
+		<Row Civilization="Civilization_Era3_FrankishKingdom"          Territories="24, 22, 99, 23"/>								<!-- North France -->
+		<Row Civilization="Civilization_Era3_Byzantium"                Territories="238, 103, 118, 123, 106, 101, 102, 104, 128"/>	<!-- Bulgaria/Romania, Anatolia, Greece, Balkans, Hungary, Egypt -->
+		<Row Civilization="Civilization_Era3_AztecEmpire"              Territories="41, 62, 219"/>									<!-- North Mexico -->
+		<Row Civilization="Civilization_Era4_VenetianRepublic"         Territories="99, 102"/>										<!-- North Italy, Balkans -->
+		<Row Civilization="Civilization_Era4_TokugawaShogunate"        Territories="29, 30, 165, 27"/>								<!-- Japan -->
+		<Row Civilization="Civilization_Era4_Spain"                    Territories="96, 97, 95, 55, 50, 48, 45, 41, 91, 92, 218"/>	<!-- Spain -->
+		<Row Civilization="Civilization_Era4_PolishKingdom"            Territories="117, 119, 120, 121"/>							<!-- Poland -->
+		<Row Civilization="Civilization_Era4_OttomanEmpire"            Territories="118, 123, 101, 102, 103, 142, 106, 128, 238, 250"/>			<!-- Anatolia, Greece, Balkans, Bulgaria/Romania,  -->
+		<Row Civilization="Civilization_Era4_MughalEmpire"             Territories="147, 207, 145, 231, 146, 236, 237"/>			<!-- India, Pakistan, Bengladesh, Afghanistan -->
+		<Row Civilization="Civilization_Era4_MingChina"                Territories="164, 162, 163, 221, 229, 241"/>					<!-- China -->
+		<Row Civilization="Civilization_Era4_JoseonKorea"              Territories="159"/>											<!-- Korea -->
+		<Row Civilization="Civilization_Era4_IroquoisConfederacy"      Territories="60, 63"/>										<!-- NE of North America -->
+		<Row Civilization="Civilization_Era4_Holland"                  Territories="23, 57, 50, 136, 141, 170, 175, 178, 176, 177 "/>			<!-- Holland, Antilles, Guyana, South Africa, Sri Lanka, Indonesia -->
+		<Row Civilization="Civilization_Era5_ZuluKingdom"              Territories="136, 222"/>										<!-- South Africa, Mozambique/Zimbabwe -->
+		<Row Civilization="Civilization_Era5_Siam"                     Territories="166, 168, 38"/>									<!-- Thailand, Cambodia -->
+		<Row Civilization="Civilization_Era5_RussianEmpire"            Territories="122, 116, 121, 119, 226, 149, 189, 148, 115, 205, 206, 228, 223, 224, 194, 151, 193, 153, 192, 225, 154, 229, 161, 157, 195, 158, 196, 155, 27, 28, 197, 0, 1, 110, 239, 114, 108, 124"/>			<!-- Moscow, St Petersburg, Russia... -->
+		<Row Civilization="Civilization_Era5_Mexico"                   Territories="41, 45, 219, 62, 58"/>							<!-- Mexico -->
+		<Row Civilization="Civilization_Era5_Italy"                    Territories="100, 99, 127, 132, 209"/>						<!-- Italy, Lybia, Sudan, Ethiopia -->
+		<Row Civilization="Civilization_Era5_Germany"                  Territories="105, 104, 117, 120"/>							<!-- Germany -->
+		<Row Civilization="Civilization_Era5_FrenchRepublic"           Territories="24, 22, 57, 50, 190, 188, 126, 220, 212, 129, 18, 213, 137, 135, 167, 180, 15, 14, 201, 12, 106"/>			<!--  France, Antilles, Guyana, North Africa, Madagascar, Quebec, Canada -->
+		<Row Civilization="Civilization_Era5_BritishEmpire"            Territories="21, 20, 19, 14, 201, 10, 60, 61, 63, 12, 5, 9, 8, 6, 199, 200, 128, 132, 131, 215, 222, 210, 136, 142, 227, 207, 145, 147, 231, 31, 32, 33, 34, 35, 36, 37, 38, 39"/>			<!-- England -->
+		<Row Civilization="Civilization_Era5_AustriaHungary"           Territories="104, 102"/>										<!-- Austria/hungary -->
+		<Row Civilization="Civilization_Era5_AfsharidPersia"           Territories="243, 144, 146, 230, 205, 142, 227, 235"/>		<!-- Iran -->
+		<Row Civilization="Civilization_Era6_USSR"                     Territories="122, 116, 121, 119, 226, 149, 189, 148, 115, 205, 206, 228, 223, 224, 194, 151, 193, 153, 192, 225, 154, 229, 161, 157, 195, 158, 196, 155, 27, 28, 197, 0, 1, 110, 239, 114, 108, 124"/>			<!-- Moscow -->
+		<Row Civilization="Civilization_Era6_USA"                      Territories="60, 61, 56, 63, 59, 58, 64, 65, 219, 204, 66, 62, 7, 198, 3, 4"/>			<!-- Washington, USA -->
+		<Row Civilization="Civilization_Era6_Turkey"                   Territories="118, 123, 250"/>								<!-- Anatolia -->
+		<Row Civilization="Civilization_Era6_Sweden"                   Territories="109, 110"/>										<!-- Stockholm -->
+		<Row Civilization="Civilization_Era6_Japan"                    Territories="29, 30, 165, 27"/>								<!-- Japan -->
+		<Row Civilization="Civilization_Era6_India"                    Territories="147, 145, 207, 231, 236, 237"/>					<!-- India, Pakistan, Bengladesh  -->
+		<Row Civilization="Civilization_Era6_Egypt"                    Territories="128, 233"/>										<!-- Egypt -->
+		<Row Civilization="Civilization_Era6_China"                    Territories="162, 163, 164, 221, 229, 208, 187, 150, 179, 173, 244, 241"/>			<!-- China -->
+		<Row Civilization="Civilization_Era6_Brazil"                   Territories="54, 49, 53, 46"/>								<!-- Brazil -->
+		<Row Civilization="Civilization_Era6_Australia"                Territories="35, 31, 32, 33, 34, 36, 37, 38, 39"/>			<!-- Australia -->
+		<Row Civilization="Civilization_Era1_Bantu"                    Territories="130, 137, 131, 214, 215, 234, 222, 136"/>		<!-- Camerunia, Congo, Kenia, Angolia, Zambia, Mozambicum, Zimbabua, Cape -->
+		<Row Civilization="Civilization_Era2_Garamantes"               Territories="127"/>											<!-- Libya -->
+		<Row Civilization="Civilization_Era3_Swahili"                  Territories="131, 234"/>										<!-- Kenia, Mozambicum  -->
+		<Row Civilization="Civilization_Era4_Maasai"                   Territories="131"/>											<!-- Kenya -->
+		<Row Civilization="Civilization_Era5_Ethiopia"                 Territories="132, 209"/>										<!-- Abyssinia, Somalia -->
+		<Row Civilization="Civilization_Era6_Nigeria"                  Territories="128, 233"/>										<!--  Beninum, Nigritania -->
+    </MajorEmpireTerritories>
+
+	<MajorEmpireCoreTerritories>	
+		<Row Civilization="Civilization_Era1_Phoenicia"                Territories="188, 190, 106, 127, 95, 100, 99, 22"/>			<!-- Morocco, Carthage, Liban, Lybia, South Spain										-->
+		<Row Civilization="Civilization_Era1_EgyptianKingdom"          Territories="128"/>											<!-- Egypt                                                                              -->
+		<Row Civilization="Civilization_Era1_HittiteEmpire"            Territories="118"/>											<!-- East/West Anatiolia                                                                -->
+		<Row Civilization="Civilization_Era1_Babylon"                  Territories="142"/>											<!-- Iraq                                                                               -->
+		<Row Civilization="Civilization_Era1_Assyria"                  Territories="123"/>											<!-- Iraq + Steppe                                                                      -->
+		<Row Civilization="Civilization_Era1_HarappanCivilization"     Territories="207, 147, 145"/>								<!-- Pakistan, North India                                                              -->
+		<Row Civilization="Civilization_Era1_MycenaeanCivilization"    Territories="101, 102, 238"/>								<!-- Greece, Balkans, Thrace                                                            -->
+		<Row Civilization="Civilization_Era1_Nubia"                    Territories="233, 132, 209, 213"/>							<!-- Sudan, Abyssinian, Ethiopia/Somalia, Central African Republic                      -->
+		<Row Civilization="Civilization_Era1_ZhouChina"                Territories="162, 163, 164, 221"/>							<!-- China                                                                              -->
+		<Row Civilization="Civilization_Era1_OlmecCivilization"        Territories="45, 41, 48, 219, 62, 58, 50, 47, 46"/>			<!-- South Mexico/Central America                                                       -->
+		<Row Civilization="Civilization_Era2_RomanEmpire"              Territories="100"/>											<!-- South Italy                                                                        -->
+		<Row Civilization="Civilization_Era2_Persia"                   Territories="243"/>											<!-- Persia                                                                             -->
+		<Row Civilization="Civilization_Era2_MayaCivilization"         Territories="219"/>											<!-- Yucatan                                                                            -->
+		<Row Civilization="Civilization_Era2_MauryaEmpire"             Territories="147"/>											<!-- North India                                                                        -->
+		<Row Civilization="Civilization_Era2_Huns"                     Territories="226, 124, 149, 205, 206, 245, 230"/>			<!-- Voronegia, Ciscaucasia, 3, 4, Kazachia, 6, 7                                       -->
+		<Row Civilization="Civilization_Era2_Goths"                    Territories="117, 119, 103"/>								<!-- Poland, Ukraine                                                                    -->
+		<Row Civilization="Civilization_Era2_CelticCivilization"       Territories="104, 22, 24, 23, 21, 19, 96, 105"/>				<!-- Danubia, Occitania, Neustria, Batavia, Britannia, Hibernia, Castella, Germania     -->
+		<Row Civilization="Civilization_Era2_Carthage"                 Territories="190"/>											<!-- Carthage                                                                           -->
+		<Row Civilization="Civilization_Era2_AncientGreece"            Territories="101"/>											<!-- Greece                                                                             -->
+		<Row Civilization="Civilization_Era2_AksumiteEmpire"           Territories="132"/>											<!-- Abyssinia                                                                          -->
+		<Row Civilization="Civilization_Era3_Vikings"                  Territories="107, 191, 109"/>								<!-- Norway, Sweden                                                                     -->
+		<Row Civilization="Civilization_Era3_UmayyadCaliphate"         Territories="106"/>											<!-- Syria                                                                              -->
+		<Row Civilization="Civilization_Era3_MongolEmpire"             Territories="225, 240, 208, 187, 206"/>						<!-- Mongolia, Gobi, Altai, Tarim, Kazachia                                             -->
+		<Row Civilization="Civilization_Era3_MedievalEngland"          Territories="21"/>											<!-- South England                                                                      -->
+		<Row Civilization="Civilization_Era3_KhmerEmpire"              Territories="38"/>											<!-- Cambodia                                                                           -->
+		<Row Civilization="Civilization_Era3_HolyRomanEmpire"          Territories="105"/>											<!-- Germany                                                                            -->
+		<Row Civilization="Civilization_Era3_GhanaEmpire"              Territories="125 "/>											<!-- Mauretania                                                                         -->
+		<Row Civilization="Civilization_Era3_FrankishKingdom"          Territories="24"/>											<!-- North France                                                                       -->
+		<Row Civilization="Civilization_Era3_Byzantium"                Territories="238, 101, 250, 118, 106, 128, 127"/>			<!-- Thracia, Greece, Lydia, Cappadocia, Syria, Egypt, Libya                            -->
+		<Row Civilization="Civilization_Era3_AztecEmpire"              Territories="41"/>											<!-- Mexica                                                                             -->
+		<Row Civilization="Civilization_Era4_VenetianRepublic"         Territories="99"/>											<!-- North Italy                                                                        -->
+		<Row Civilization="Civilization_Era4_TokugawaShogunate"        Territories="29, 30, 165, 242"/>								<!-- Japan                                                                              -->
+		<Row Civilization="Civilization_Era4_Spain"                    Territories="96"/>											<!-- Castella                                                                           -->
+		<Row Civilization="Civilization_Era4_PolishKingdom"            Territories="117"/>											<!-- Poland                                                                             -->
+		<Row Civilization="Civilization_Era4_OttomanEmpire"            Territories="250"/>											<!-- Lydia                                                                              -->
+		<Row Civilization="Civilization_Era4_MughalEmpire"             Territories="147"/>											<!-- North India                                                                        -->
+		<Row Civilization="Civilization_Era4_MingChina"                Territories="241"/>											<!-- Kiangnanum                                                                         -->
+		<Row Civilization="Civilization_Era4_JoseonKorea"              Territories="159"/>											<!-- Korea                                                                              -->
+		<Row Civilization="Civilization_Era4_IroquoisConfederacy"      Territories="63"/>											<!-- Great Lakes                                                                        -->
+		<Row Civilization="Civilization_Era4_Holland"                  Territories="23"/>											<!-- Holland                                                                            -->
+		<Row Civilization="Civilization_Era5_ZuluKingdom"              Territories="136"/>											<!-- South Africa                                                                       -->
+		<Row Civilization="Civilization_Era5_Siam"                     Territories="168"/>											<!-- Thailand                                                                           -->
+		<Row Civilization="Civilization_Era5_RussianEmpire"            Territories="122, 116, 114, 189, 148, 110, 112"/>			<!-- Moscow, Novogardia, Biarma, Casanum, Nenetsia, Permia, Kola                        -->
+		<Row Civilization="Civilization_Era5_Mexico"                   Territories="41"/>											<!-- Mexica                                                                             -->
+		<Row Civilization="Civilization_Era5_Italy"                    Territories="100, 99, 98"/>									<!-- Italy, Sardinia                                                                    -->
+		<Row Civilization="Civilization_Era5_Germany"                  Territories="105, 117"/>										<!-- Germany, Poland                                                                    -->
+		<Row Civilization="Civilization_Era5_FrenchRepublic"           Territories="24, 22"/>										<!-- France                                                                             -->
+		<Row Civilization="Civilization_Era5_BritishEmpire"            Territories="21, 20, 19"/>									<!-- England, Scotland, Ireland                                                         -->
+		<Row Civilization="Civilization_Era5_AustriaHungary"           Territories="104, 102"/>										<!-- Danubia, Illyria                                                                   -->
+		<Row Civilization="Civilization_Era5_AfsharidPersia"           Territories="243, 144, 235"/>								<!-- Persia, Media, Gedrosia                                                            -->
+		<Row Civilization="Civilization_Era6_USSR"                     Territories="122, 116, 226, 124"/>							<!-- Moscow, Novogardia, Voronegia, Ciscaucasia                                         -->
+		<Row Civilization="Civilization_Era6_USA"                      Territories="60, 61"/>										<!-- Massachusetta, Carolinae                                                           -->
+		<Row Civilization="Civilization_Era6_Turkey"                   Territories="250, 118"/>										<!-- Lydia, Cappadocia                                                                  -->
+		<Row Civilization="Civilization_Era6_Sweden"                   Territories="109, 152"/>										<!-- Suecia, Lapponia                                                                   -->
+		<Row Civilization="Civilization_Era6_Japan"                    Territories="29, 30, 165, 242"/>								<!-- Japan                                                                              -->
+		<Row Civilization="Civilization_Era6_India"                    Territories="147, 145, 236, 237, 179, 231"/>					<!-- India, Maharastra, Dravidia, Odisa, Casmiria, Bengala                              -->
+		<Row Civilization="Civilization_Era6_Egypt"                    Territories="128"/>											<!-- Egypt                                                                              -->
+		<Row Civilization="Civilization_Era6_China"                    Territories="229"/>											<!-- Manchuria                                                                          -->
+		<Row Civilization="Civilization_Era6_Brazil"                   Territories="54"/>											<!-- Brasilia Australis                                                                 -->
+		<Row Civilization="Civilization_Era6_Australia"                Territories="35, 31, 32, 33, 34, 39"/>						<!-- Australia	                                                                        -->	
+    </MajorEmpireCoreTerritories>
+	
+    <MinorFactionTerritories>
+		<Row Civilization="IndependentPeople_Era1_Peaceful_Akkadians"      Territories="142, 123"/>							<!-- Mesopotamia, Assyria													-->
+		<Row Civilization="IndependentPeople_Era1_Peaceful_Elamites"       Territories="243"/>								<!-- Persia                                                                 -->
+		<Row Civilization="IndependentPeople_Era1_Peaceful_Noks"           Territories="220"/>								<!-- Beninum                                                                -->
+		<Row Civilization="IndependentPeople_Era1_Peaceful_NorteChicoPeople"   Territories="47"/>							<!-- Peruvia                                                                -->
+		<Row Civilization="IndependentPeople_Era1_Violent_Hurrians"        Territories="123"/>								<!-- Assyria                                                                -->
+		<Row Civilization="IndependentPeople_Era1_Violent_Hyksos"          Territories="128"/>								<!-- Aegyptus                                                               -->
+		<Row Civilization="IndependentPeople_Era1_Violent_Kassites"        Territories="142"/>								<!-- Mesopotami                                                             -->
+		<Row Civilization="IndependentPeople_Era1_Violent_Lullubis"        Territories="142"/>								<!-- Mesopotami                                                             -->
+		<Row Civilization="IndependentPeople_Era1_Violent_Medes"           Territories="144, 243"/>							<!-- Media, Persia                                                          -->
+		<Row Civilization="IndependentPeople_Era1_Violent_Minoans"         Territories="101"/>								<!-- Graecia                                                                -->
+		<Row Civilization="IndependentPeople_Era1_Violent_Mittanians"      Territories="123"/>								<!-- Assyria                                                                -->
+		<Row Civilization="IndependentPeople_Era2_Peaceful_Etruscans"      Territories="99, 100"/>							<!-- Italia Annonaria, Italia Suburbicaria                                  -->
+		<Row Civilization="IndependentPeople_Era2_Peaceful_Garamantes"     Territories="127"/>								<!-- Libya                                                                  -->
+		<Row Civilization="IndependentPeople_Era2_Peaceful_Mochicas"       Territories="47"/>								<!-- Peruvia                                                                -->
+		<Row Civilization="IndependentPeople_Era2_Peaceful_Nazcans"        Territories="47, 52"/>							<!-- Peruvia, Atacama                                                       -->
+		<Row Civilization="IndependentPeople_Era2_Peaceful_Parthians"      Territories="230"/>								<!-- Parthia                                                                -->
+		<Row Civilization="IndependentPeople_Era2_Peaceful_Scythians"      Territories="205, 149, 206, 228, 124, 226"/>		<!-- Chorasmia, Orenburgum, Kazachia, Omium, Ciscaucasia, Voronegia         -->
+		<Row Civilization="IndependentPeople_Era2_Peaceful_Zapotecs"       Territories="219, 41"/>							<!-- Yucatania, Mexicum                                                     -->
+		<Row Civilization="IndependentPeople_Era2_Violent_Arverni"         Territories="22"/>								<!-- Occitania                                                              -->
+		<Row Civilization="IndependentPeople_Era2_Violent_Burgundians"     Territories="117, 105, 99, 22"/>					<!-- Polonia, Germania, Italia Annonaria, Occitania                         -->
+		<Row Civilization="IndependentPeople_Era2_Violent_Cantabris"       Territories="96, 97"/>							<!-- Castella, Aragonia                                                     -->
+		<Row Civilization="IndependentPeople_Era2_Violent_Cherusci"        Territories="105"/>								<!-- Germania                                                               -->
+		<Row Civilization="IndependentPeople_Era2_Violent_Dacians"         Territories="103"/>								<!-- Dacia                                                                  -->
+		<Row Civilization="IndependentPeople_Era2_Violent_Molossians"      Territories="101, 102"/>							<!-- Graecia, Illyria                                                       -->
+		<Row Civilization="IndependentPeople_Era2_Violent_Numidians"       Territories="190"/>								<!-- Numidia                                                                -->
+		<Row Civilization="IndependentPeople_Era2_Violent_Picts"           Territories="20"/>								<!-- Caledonia                                                              -->
+		<Row Civilization="IndependentPeople_Era2_Violent_Sabines"         Territories="100, 99"/>							<!-- Italia Suburbicaria, Italia Annonaria                                  -->
+		<Row Civilization="IndependentPeople_Era2_Violent_Vandals"         Territories="117, 120, 190, 98, 105, 22, 95"/>	<!-- Polonia, Baltica, Numidia?, Sardinia?, Germania, Occitania, Andalusia  -->
+		<Row Civilization="IndependentPeople_Era3_Peaceful_Armenians"      Territories="121, 118, 123"/>					<!-- Transcaucasia, Cappadocia, Assyria                                     -->
+		<Row Civilization="IndependentPeople_Era3_Peaceful_Icelanders"     Territories="17, 11"/>							<!-- Islandia, Groenlandia                                                  -->
+		<Row Civilization="IndependentPeople_Era3_Peaceful_Khazars"        Territories="124, 226, 121, 119, 205"/>			<!-- Ciscaucasia, Voronegia, Transcaucasia, Ucraina, Chorasmia              -->
+		<Row Civilization="IndependentPeople_Era3_Peaceful_Malinke"        Territories="129, 211"/>							<!-- Malia, Guinea                                                          -->
+		<Row Civilization="IndependentPeople_Era3_Peaceful_Toltecs"        Territories="219, 41"/>							<!-- Yucatania, Mexicum                                                     -->
+		<Row Civilization="IndependentPeople_Era3_Violent_Avars"           Territories="124, 104, 102, 103"/>				<!-- Ciscaucasia, Danubia, Illyria, Dacia                                   -->
+		<Row Civilization="IndependentPeople_Era3_Violent_Berbers"         Territories="188, 190, 126, 127, 125"/>			<!-- Marocum, Numidia, Sahara, Libya, Mauretania                            -->
+		<Row Civilization="IndependentPeople_Era3_Violent_Bretons"         Territories="24"/>								<!-- Neustria                                                               -->
+		<Row Civilization="IndependentPeople_Era3_Violent_Magyars"         Territories="119, 103, 104"/>					<!-- Ucraina, Dacia, Danubia                                                -->
+		<Row Civilization="IndependentPeople_Era3_Violent_Normans"         Territories="24, 21"/>							<!-- Neustria, Anglia                                                       -->
+		<Row Civilization="IndependentPeople_Era3_Violent_Ostrogoths"      Territories="109, 99, 119, 104"/>				<!-- Suecia, Italia Annonaria, Ucraina, Danubia                             -->
+		<Row Civilization="IndependentPeople_Era3_Violent_Scots"           Territories="20"/>								<!-- Caledonia                                                              -->
+		<Row Civilization="IndependentPeople_Era3_Violent_Somalis"         Territories="209"/>								<!-- Somalia                                                                -->
+		<Row Civilization="IndependentPeople_Era3_Violent_Thai"            Territories="168, 169"/>							<!-- Thailandia, Malaesia                                                   -->
+		<Row Civilization="IndependentPeople_Era3_Violent_Wisigoths"       Territories="103, 109, 22, 95, 97, 96"/>			<!-- Dacia, Suecia, Occitania, Andalusia, Aragonia, Castella                -->
+		<Row Civilization="IndependentPeople_Era4_Peaceful_Inca"           Territories="47, 52, 246"/>						<!-- Peruvia, Atacama, Chilia                                               -->
+		<Row Civilization="IndependentPeople_Era4_Peaceful_Malays"         Territories="169, 170, 178"/>					<!-- Malaesia, Sumatra, Borneum                                             -->
+		<Row Civilization="IndependentPeople_Era4_Peaceful_Tamils"         Territories="236, 141"/>							<!-- Dravidia, Sri Lanca                                                    -->
+		<Row Civilization="IndependentPeople_Era4_Peaceful_Tarascans"      Territories="41"/>								<!-- Mexicum                                                                -->
+		<Row Civilization="IndependentPeople_Era4_Violent_Kongo"           Territories="214, 137"/>							<!-- Angolia, Congo                                                         -->
+		<Row Civilization="IndependentPeople_Era4_Violent_Mississipians"   Territories="59, 63, 61, 56"/>					<!-- Mississippia, Lacus Magni, Carolinae, Florida                          -->
+		<Row Civilization="IndependentPeople_Era4_Violent_Tlaxcaltecs"     Territories="41"/>								<!-- Mexicum		                                                        -->
+    </MinorFactionTerritories>
+	
+	<NoCapital>
+        <Row Civilization="Civilization_Era1_Assyria"/>
+        <Row Civilization="Civilization_Era1_HarappanCivilization"/>
+        <Row Civilization="Civilization_Era1_Nubia"/>
+        <Row Civilization="Civilization_Era1_ZhouChina"/>
+        <Row Civilization="Civilization_Era1_MycenaeanCivilization"/>
+        <Row Civilization="Civilization_Era1_Phoenicia"/>
+        <Row Civilization="Civilization_Era1_OlmecCivilization"/>
+        <Row Civilization="Civilization_Era1_Bantu"/>
+        <Row Civilization="Civilization_Era2_Huns"/>
+        <Row Civilization="Civilization_Era2_Goths"/>
+        <Row Civilization="Civilization_Era2_CelticCivilization"/>
+        <Row Civilization="Civilization_Era3_Vikings"/>
+        <Row Civilization="Civilization_Era3_MongolEmpire"/>
+        <Row Civilization="Civilization_Era4_TokugawaShogunate"/>
+    </NoCapital>
+	
+    <NomadCultures>
+        <Row Civilization="Civilization_Era2_Huns"/>
+        <Row Civilization="Civilization_Era3_MongolEmpire"/>
+    </NomadCultures>
+</Data>

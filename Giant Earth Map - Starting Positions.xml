@@ -1,0 +1,43 @@
+<Data>
+
+    <Map Name="GiantEarth" MapTerritoryHash="-819807177,-288044546" LoadOrder="0"/>
+	
+    <ExtraPositions>		
+		<Row Index="0" X="32"	Y="41"/>	<!-- Nubia 				-->
+		<Row Index="1" X="40"	Y="51"/>	<!-- Mesopotamia        -->
+		<Row Index="2" X="56"	Y="55"/>	<!-- India              -->
+		<Row Index="3" X="17"	Y="52"/>	<!-- Carthage           -->
+		<Row Index="4" X="79"	Y="60"/>	<!-- China              -->
+		<Row Index="5" X="28"	Y="58"/>	<!-- Greece             -->
+		<Row Index="6" X="31"	Y="47"/>	<!-- Egypt              -->
+		<Row Index="7" X="42"	Y="57"/>	<!-- Assyria            -->
+		<Row Index="8" X="38"	Y="58"/>	<!-- Cappadocia         -->
+		<Row Index="9" X="21"	Y="59"/>	<!-- Rome               -->
+		<Row Index="10" X="48"	Y="72"/>	<!-- Urals              -->
+		<Row Index="11" X="23"	Y="82"/>	<!-- Sweden             -->
+		<Row Index="12" X="76"	Y="73"/>	<!-- Mongolia           -->
+		<Row Index="13" X="7"	Y="58"/>	<!-- Spain              -->
+		<Row Index="14" X="28"	Y="15"/>	<!-- South Africa       -->
+		<Row Index="15" X="78"	Y="40"/>	<!-- South-East Asia	-->			
+    </ExtraPositions>
+	
+    <ExtraPositionsNewWorld>		
+		<Row Index="0" X="32"	Y="41"/>	<!-- Nubia 				-->
+		<Row Index="1" X="40"	Y="51"/>	<!-- Mesopotamia        -->
+		<Row Index="2" X="56"	Y="55"/>	<!-- India              -->
+		<Row Index="3" X="17"	Y="52"/>	<!-- Carthage           -->
+		<Row Index="4" X="79"	Y="60"/>	<!-- China              -->
+		<Row Index="5" X="28"	Y="58"/>	<!-- Greece             -->
+		<Row Index="6" X="31"	Y="47"/>	<!-- Egypt              -->
+		<Row Index="7" X="42"	Y="57"/>	<!-- Assyria            -->
+		<Row Index="8" X="38"	Y="58"/>	<!-- Cappadocia         -->
+		<Row Index="9" X="146"	Y="48"/>	<!-- Central America    -->
+		<Row Index="10" X="140"	Y="57"/>	<!-- Texas              -->
+		<Row Index="11" X="23"	Y="80"/>	<!-- Sweden             -->
+		<Row Index="12" X="76"	Y="73"/>	<!-- Mongolia           -->
+		<Row Index="13" X="154"	Y="38"/>	<!-- Columbia           -->
+		<Row Index="14" X="28"	Y="15"/>	<!-- South Africa       -->
+		<Row Index="15" X="78"	Y="40"/>	<!-- South-East Asia    -->					
+    </ExtraPositionsNewWorld>
+ 
+</Data>

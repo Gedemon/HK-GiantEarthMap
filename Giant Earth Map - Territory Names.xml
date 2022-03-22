@@ -1,0 +1,271 @@
+<Data>
+
+    <Map Name="GiantEarth" MapTerritoryHash="-819807177,-288044546" LoadOrder="0"/>
+	
+	<ContinentNames>
+		<Row Index="0"	Name="Oceans"/>
+		<Row Index="1"	Name="Americas"/>
+		<Row Index="2"	Name="Eurasiafrica"/>
+		<Row Index="3"	Name="Australia"/>
+		<Row Index="5"	Name="Greenland"/>
+		<!-- <Row Index="4"	Name="South America"/>	-->
+		<!-- <Row Index="6"	Name="Africa"/>	-->
+		<!-- <Row Index="7"	Name="Asia"/>	-->
+    </ContinentNames>
+
+    <TerritoryNames>
+		<Row Index="0"		Name="Mare Beringianum"/>
+		<Row Index="1"		Name="Chatanga"/>
+		<Row Index="2"		Name="Flumen Cromwellianum"/>
+		<Row Index="3"		Name="Insulae Aleutiae"/>
+		<Row Index="4"		Name="Alasca"/>
+		<Row Index="5"		Name="Saskatchewan"/> <!-- South Alberta+South Saskatchewan -->
+		<Row Index="6"		Name="Columbia Britannica"/>
+		<Row Index="7"		Name="Haida Gwaii"/> <!-- Islands West of British Columbia -->
+		<Row Index="8"		Name="Kitlineq"/> <!-- Victoria Island -->
+		<Row Index="9"		Name="Nunavut"/>
+		<Row Index="10"		Name="Baffin"/> <!-- North Canada Island -->
+		<Row Index="11"		Name="Groenlandia"/>
+		<Row Index="12"		Name="Keewatin"/>
+		<Row Index="13"		Name="Canada"/>
+		<Row Index="14"		Name="Ungava"/>
+		<Row Index="15"		Name="Terra Nova"/>
+		<Row Index="16"		Name="Mare Laboratorium"/>
+		<Row Index="17"		Name="Islandia"/>
+		<Row Index="18"		Name="Tzadia"/>
+		<Row Index="19"		Name="Hibernia"/> <!-- Ireland -->
+		<Row Index="20"		Name="Caledonia"/> <!-- Scottland -->
+		<Row Index="21"		Name="Britannia"/> <!-- England -->
+		<Row Index="22"		Name="Occitania"/>
+		<Row Index="23"		Name="Batavia"/>
+		<Row Index="24"		Name="Neustria"/> <!-- Northern France -->
+		<Row Index="25"		Name="Flumen Kuroshio"/>
+		<Row Index="26"		Name="Flumen Californiense"/>
+		<Row Index="27"		Name="Esonia"/>
+		<Row Index="28"		Name="Camtschatca"/>
+		<Row Index="29"		Name="Iaponia Boreales"/>
+		<Row Index="30"		Name="Iaponia Australes"/>
+		<Row Index="31"		Name="Australia Occidentalis"/>
+		<Row Index="32"		Name="Terra Reginae"/>
+		<Row Index="33"		Name="Australia Septentrionalis"/>
+		<Row Index="34"		Name="Australia Australis"/>
+		<Row Index="35"		Name="Cambria Australis"/>
+		<Row Index="36"		Name="Te Ika-a-Maui"/>
+		<Row Index="37"		Name="Te Waipounamu"/>
+		<Row Index="38"		Name="Cambosia"/>
+		<Row Index="39"		Name="Tasmania"/>
+		<Row Index="40"		Name="Magnus Sinus Australianus"/>
+		<Row Index="41"		Name="Mexicum"/>
+		<Row Index="42"		Name="Samoa"/>
+		<Row Index="43"		Name="Oceanus Indicus"/>
+		<Row Index="44"		Name="Mare Tasmanianum"/>
+		<Row Index="45"		Name="Guatemala"/> <!-- Central America -->
+		<Row Index="46"		Name="Amazonia"/>
+		<Row Index="47"		Name="Peruvia"/>
+		<Row Index="48"		Name="Columbia"/>
+		<Row Index="49"		Name="Caatinga"/> <!-- North Brazil -->
+		<Row Index="50"		Name="Guiana"/>
+		<Row Index="51"		Name="Patagonia"/> <!-- South Chile, Argentina -->
+		<Row Index="52"		Name="Atacama"/> <!-- South Peru / North Chile -->
+		<Row Index="53"		Name="Pantanal"/>
+		<Row Index="54"		Name="Brasilia Australis"/>
+		<Row Index="55"		Name="Mare Caribaeum"/>
+		<Row Index="56"		Name="Florida"/>
+		<Row Index="57"		Name="Antillae"/>
+		<Row Index="58"		Name="Texia"/>
+		<Row Index="59"		Name="Mississippia"/>
+		<Row Index="60"		Name="Massachusetta"/>
+		<Row Index="61"		Name="Carolinae"/>
+		<Row Index="62"		Name="Chihuahua"/>
+		<Row Index="63"		Name="Lacus Magni"/>
+		<Row Index="64"		Name="Magnae Planities"/>
+		<Row Index="65"		Name="Dacota"/>
+		<Row Index="66"		Name="Oregonia"/>
+		<Row Index="67"		Name="Flumen Aequatoriale Septentrionale"/>
+		<Row Index="68"		Name="Havaii"/>
+		<Row Index="69"		Name="Insulae Marianae"/>
+		<Row Index="70"		Name="Insulae Marsaliensis"/>
+		<Row Index="71"		Name="Insulae Marchionis"/>
+		<Row Index="72"		Name="Insula Paschalis"/>
+		<Row Index="73"		Name="Polynesia Centralis"/>
+		<Row Index="74"		Name="Insulae Salomanis"/>
+		<Row Index="75"		Name="Polynesia Australis"/>
+		<Row Index="76"		Name="Flumen Circumpolare Antarcticum"/>
+		<Row Index="77"		Name="Insulae Galapagenses"/>
+		<Row Index="78"		Name="Gyrus Pacifici Australis"/>
+		<Row Index="79"		Name="Flumen Humboldtianum"/>
+		<Row Index="80"		Name="Insulae Bonin"/>
+		<Row Index="81"		Name="Insulae Atlanticae Australis"/>
+		<Row Index="82"		Name="Mare Argentinum"/>
+		<Row Index="83"		Name="Fossa Mariana"/>
+		<Row Index="84"		Name="Polynesia Borealis"/>
+		<Row Index="85"		Name="Fretum Drakeanum"/>
+		<Row Index="86"		Name="Oceanus Atlanticus Australis"/>
+		<Row Index="87"		Name="Flumen Benguelense"/>
+		<Row Index="88"		Name="Flumen Aequatoriale Australe"/>
+		<Row Index="89"		Name="Mare Sargassum"/>
+		<Row Index="90"		Name="Oceanus Atlanticus"/>
+		<Row Index="91"		Name="Canariae Insulae"/>
+		<Row Index="92"		Name="Azores"/>
+		<Row Index="93"		Name="Oceanus Atlanticus Orientalis"/>
+		<Row Index="94"		Name="Insulae Societalis"/>
+		<Row Index="95"		Name="Andalusia"/>
+		<Row Index="96"		Name="Castella"/>
+		<Row Index="97"		Name="Aragonia"/>
+		<Row Index="98"		Name="Sardinia"/>
+		<Row Index="99"		Name="Italia Annonaria"/>
+		<Row Index="100"	Name="Italia Suburbicaria"/>
+		<Row Index="101"	Name="Graecia"/>
+		<Row Index="102"	Name="Illyria"/>
+		<Row Index="103"	Name="Dacia"/>
+		<Row Index="104"	Name="Danubia"/>
+		<Row Index="105"	Name="Germania"/>
+		<Row Index="106"	Name="Syria"/>
+		<Row Index="107"	Name="Norvegia"/>
+		<Row Index="108"	Name="Crasnoiarium"/>
+		<Row Index="109"	Name="Suecia"/>
+		<Row Index="110"	Name="Permia"/>
+		<Row Index="111"	Name="Finnia"/>
+		<Row Index="112"	Name="Kola"/>
+		<Row Index="113"	Name="Mare Barentsianum"/>
+		<Row Index="114"	Name="Biarmia"/>
+		<Row Index="115"	Name="Nova Zembla"/>
+		<Row Index="116"	Name="Novogardia"/>
+		<Row Index="117"	Name="Polonia"/>
+		<Row Index="118"	Name="Cappadocia"/>
+		<Row Index="119"	Name="Ucraina"/>
+		<Row Index="120"	Name="Baltica"/>
+		<Row Index="121"	Name="Transcaucasia"/>
+		<Row Index="122"	Name="Moscovia"/>
+		<Row Index="123"	Name="Assyria"/>
+		<Row Index="124"	Name="Ciscaucasia"/>
+		<Row Index="125"	Name="Mauretania"/>
+		<Row Index="126"	Name="Sahara"/>
+		<Row Index="127"	Name="Libya"/>
+		<Row Index="128"	Name="Aegyptus"/>
+		<Row Index="129"	Name="Malia"/>
+		<Row Index="130"	Name="Cammarunia"/>
+		<Row Index="131"	Name="Kenia"/>
+		<Row Index="132"	Name="Abyssinia"/>
+		<Row Index="133"	Name="Socotra"/>
+		<Row Index="134"	Name="Insulae Mascarene"/>
+		<Row Index="135"	Name="Madagascaria"/>
+		<Row Index="136"	Name="Cape"/>
+		<Row Index="137"	Name="Congo"/>
+		<Row Index="138"	Name="Flumen Agulhas" />
+		<Row Index="139"	Name="Oceanus Indicus Occidentalis"/>
+		<Row Index="140"	Name="Mare Arabicum"/>
+		<Row Index="141"	Name="SriLanca"/>
+		<Row Index="142"	Name="Mesopotamia"/>
+		<Row Index="143"	Name="Hidiazum"/>
+		<Row Index="144"	Name="Media"/>
+		<Row Index="145"	Name="Maharastra"/>
+		<Row Index="146"	Name="Afgania"/>
+		<Row Index="147"	Name="Ganges"/>
+		<Row Index="148"	Name="Nenetsia"/>
+		<Row Index="149"	Name="Orenburgum"/>
+		<Row Index="150"	Name="Tibetum"/>
+		<Row Index="151"	Name="Altai"/>
+		<Row Index="152"	Name="Lapponia"/>
+		<Row Index="153"	Name="Tungusca"/>
+		<Row Index="154"	Name="Lena"/>
+		<Row Index="155"	Name="Cisbaicalia"/>
+		<Row Index="156"	Name="Mare Tschukotense"/>
+		<Row Index="157"	Name="Amur"/>
+		<Row Index="158"	Name="Magadanum"/>
+		<Row Index="159"	Name="Corea"/>
+		<Row Index="160"	Name="Insulae Lineae"/>
+		<Row Index="161"	Name="Territorium Maritimum"/>
+		<Row Index="162"	Name="Planum Sinense"/>
+		<Row Index="163"	Name="Flumen Flavum"/>
+		<Row Index="164"	Name="Flumen Margaritarum"/>
+		<Row Index="165"	Name="Formosa"/>
+		<Row Index="166"	Name="Birmania"/>
+		<Row Index="167"	Name="Vietnamia"/>
+		<Row Index="168"	Name="Thailandia"/>
+		<Row Index="169"	Name="Malaesia"/>
+		<Row Index="170"	Name="Sumatra"/>
+		<Row Index="171"	Name="Andamanenses"/>
+		<Row Index="172"	Name="Sinus Bengalensis"/>
+		<Row Index="173"	Name="Hainania"/>
+		<Row Index="174"	Name="Mare Philippinense"/>
+		<Row Index="175"	Name="Iava"/>
+		<Row Index="176"	Name="Celebis"/>
+		<Row Index="177"	Name="Papua"/>
+		<Row Index="178"	Name="Borneum"/>
+		<Row Index="179"	Name="Casmiria"/>
+		<Row Index="180"	Name="Melanesia"/>
+		<Row Index="181"	Name="Flumen Australianum Occidentale"/>
+		<Row Index="182"	Name="Gyrus Indici"/>
+		<Row Index="183"	Name="Archipelagus Crozetense"/>
+		<Row Index="184"	Name="Oceanus Indicus Australis"/>
+		<Row Index="185"	Name="Oceanus Atlanticus Septentrionalis"/>
+		<Row Index="186"	Name="Mare Norvegicum"/>
+		<Row Index="187"	Name="Tarim"/>
+		<Row Index="188"	Name="Marocum"/>
+		<Row Index="189"	Name="Casanum"/>
+		<Row Index="190"	Name="Numidia"/>
+		<Row Index="191"	Name="Finmarchia"/>
+		<Row Index="192"	Name="Taimyr"/>
+		<Row Index="193"	Name="Tomium"/>
+		<Row Index="194"	Name="Iamalia"/>
+		<Row Index="195"	Name="Iana"/>
+		<Row Index="196"	Name="Colyma"/>
+		<Row Index="197"	Name="Tschucoticus"/>
+		<Row Index="198"	Name="Kenai"/> <!-- South Alaska -->
+		<Row Index="199"	Name="Athabasca"/> <!-- North Alberta+North Saskatchewan -->
+		<Row Index="200"	Name="Dene"/> <!-- Nothwest Territories -->
+		<Row Index="201"	Name="Laboratoria"/>
+		<Row Index="202"	Name="Flumen Argenteum"/>
+		<Row Index="203"	Name="Terra Ignium"/>
+		<Row Index="204"	Name="Nivata"/>
+		<Row Index="205"	Name="Chorasmia"/>
+		<Row Index="206"	Name="Kazachia"/>
+		<Row Index="207"	Name="Indus"/>
+		<Row Index="208"	Name="Desertum Gobium"/>
+		<Row Index="209"	Name="Somalia"/>
+		<Row Index="210"	Name="Naimbia"/>
+		<Row Index="211"	Name="Guinea"/>
+		<Row Index="212"	Name="Nigritania"/>
+		<Row Index="213"	Name="Ngbandia"/>
+		<Row Index="214"	Name="Angolia"/>
+		<Row Index="215"	Name="Zambia"/>
+		<Row Index="216"	Name="Capitis Viridis"/>
+		<Row Index="217"	Name="Tuvalu"/>
+		<Row Index="218"	Name="Philippinae"/>
+		<Row Index="219"	Name="Yucatania"/>
+		<Row Index="220"	Name="Beninum"/>
+		<Row Index="221"	Name="Sichuan"/>
+		<Row Index="222"	Name="Zimbabua"/>
+		<Row Index="223"	Name="Tobolium"/>
+		<Row Index="224"	Name="Ienisea"/>
+		<Row Index="225"	Name="Mongolia Ulterior"/>
+		<Row Index="226"	Name="Voronegia"/>
+		<Row Index="227"	Name="Arabia"/>
+		<Row Index="228"	Name="Omium"/>
+		<Row Index="229"	Name="Manchuria"/>
+		<Row Index="230"	Name="Parthia"/>
+		<Row Index="231"	Name="Bengala"/>
+		<Row Index="232"	Name="California"/>
+		<Row Index="233"	Name="Sudania"/>
+		<Row Index="234"	Name="Mozambicum"/>
+		<Row Index="235"	Name="Gedrosia"/>
+		<Row Index="236"	Name="Dravidia"/>
+		<Row Index="237"	Name="Odisa"/>
+		<Row Index="238"	Name="Thracia"/>
+		<Row Index="239"	Name="Transbaicalia"/>
+		<Row Index="240"	Name="Mongolia Citerior"/>
+		<Row Index="241"	Name="Kiangnanum"/>
+		<Row Index="242"	Name="Alpes Iaponicae"/>
+		<Row Index="243"	Name="Persia"/>
+		<Row Index="244"	Name="Amdo"/>
+		<Row Index="245"	Name="Transoxiana"/>
+		<Row Index="246"	Name="Chilia"/>
+		<Row Index="247"	Name="Venetiola"/>
+		<Row Index="248"	Name="Paraensis"/>
+		<Row Index="249"	Name="Flumen Brasiliense"/>
+		<Row Index="250"	Name="Lydia"/>
+		<Row Index="251"	Name="Ultima Thule"/>
+    </TerritoryNames>
+ 
+</Data>

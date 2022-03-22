@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+
+	<CivilizationCityAliases>
+		<Row Civilization="Civilization_Era1_Assyria" Aliases="Babylon,SUMERIAN"/>
+		<Row Civilization="Civilization_Era1_Babylon" Aliases="SUMERIAN"/>
+		<Row Civilization="Civilization_Era1_Bantu" Aliases="INDIGENOUS"/>
+		<Row Civilization="Civilization_Era1_EgyptianKingdom" Aliases="EGYPT"/>
+		<Row Civilization="Civilization_Era1_HarappanCivilization" Aliases="INDIA"/>
+		<Row Civilization="Civilization_Era1_MycenaeanCivilization" Aliases="AncientGreece"/>
+		<Row Civilization="Civilization_Era1_Nubia" Aliases="EgyptianKingdom,NUBIA"/>
+		<Row Civilization="Civilization_Era1_OlmecCivilization" Aliases="MayaCivilization,INDIGENOUS"/>
+		<Row Civilization="Civilization_Era1_Phoenicia" Aliases="CARTHAGE,ROME,GREECE"/>
+		<Row Civilization="Civilization_Era1_ZhouChina" Aliases="China"/>
+		<Row Civilization="Civilization_Era2_AksumiteEmpire" Aliases="Ethiopia"/>
+		<Row Civilization="Civilization_Era2_AncientGreece" Aliases="GREECE,ROME"/>
+		<Row Civilization="Civilization_Era2_Carthage" Aliases="Phoenicia,CARTHAGE,ROME,AncientGreece,GREECE"/>
+		<Row Civilization="Civilization_Era2_CelticCivilization" Aliases="RomanEmpire,ROME"/>
+		<Row Civilization="Civilization_Era2_Garamantes" Aliases="RomanEmpire"/>
+		<Row Civilization="Civilization_Era2_Goths" Aliases="RomanEmpire"/>
+		<Row Civilization="Civilization_Era2_Huns" Aliases="RomanEmpire"/>
+		<Row Civilization="Civilization_Era2_MauryaEmpire" Aliases="SANSKRIT,HINDI"/>
+		<Row Civilization="Civilization_Era2_MayaCivilization" Aliases="INDIGENOUS"/>
+		<Row Civilization="Civilization_Era2_RomanEmpire" Aliases="ROME,GREECE"/>
+		<Row Civilization="Civilization_Era3_Byzantium" Aliases="BYZANTIUM,AncientGreece"/>
+		<Row Civilization="Civilization_Era3_FrankishKingdom" Aliases="LATE_LATIN,FrenchRepublic"/>
+		<Row Civilization="Civilization_Era3_GhanaEmpire" Aliases="UmayyadCaliphate"/>
+		<Row Civilization="Civilization_Era3_KhmerEmpire" Aliases="SANSKRIT"/>
+		<Row Civilization="Civilization_Era3_MedievalEngland" Aliases="ENGLAND"/>
+		<Row Civilization="Civilization_Era3_UmayyadCaliphate" Aliases="ARABIA"/>
+		<Row Civilization="Civilization_Era3_Vikings" Aliases="ICELANDIC"/>
+		<Row Civilization="Civilization_Era4_IroquoisConfederacy" Aliases="INDIGENOUS"/>
+		<Row Civilization="Civilization_Era4_Maasai" Aliases="INDIGENOUS"/>
+		<Row Civilization="Civilization_Era4_MingChina" Aliases="China,CHINA"/>
+		<Row Civilization="Civilization_Era4_MughalEmpire" Aliases="MED_PERSIA,Persia"/>
+		<Row Civilization="Civilization_Era4_OttomanEmpire" Aliases="OTTOMAN"/>
+		<Row Civilization="Civilization_Era4_PolishKingdom" Aliases="POLAND"/>
+		<Row Civilization="Civilization_Era4_Spain" Aliases="SPAIN"/>
+		<Row Civilization="Civilization_Era4_TokugawaShogunate" Aliases="Japan"/>
+		<Row Civilization="Civilization_Era4_VenetianRepublic" Aliases="Italy"/>
+		<Row Civilization="Civilization_Era5_AfsharidPersia" Aliases="MED_PERSIA,Persia"/>
+		<Row Civilization="Civilization_Era5_AustriaHungary" Aliases="HolyRomanEmpire,HUNGARY"/>
+		<Row Civilization="Civilization_Era5_BritishEmpire" Aliases="BRIT_19,ENGLAND"/>
+		<Row Civilization="Civilization_Era5_FrenchRepublic" Aliases="FRANCE"/>
+		<Row Civilization="Civilization_Era5_Germany" Aliases="HolyRomanEmpire,GERMANY"/>
+		<Row Civilization="Civilization_Era5_Mexico" Aliases="Spain"/>
+		<Row Civilization="Civilization_Era5_RussianEmpire" Aliases="RUSSIA"/>
+		<Row Civilization="Civilization_Era5_ZuluKingdom" Aliases="INDIGENOUS"/>
+		<Row Civilization="Civilization_Era6_Australia" Aliases="USA,ENGLAND"/>
+		<Row Civilization="Civilization_Era6_China" Aliases="CHINA"/>
+		<Row Civilization="Civilization_Era6_Egypt" Aliases="UmayyadCaliphate"/>
+		<Row Civilization="Civilization_Era6_India" Aliases="HINDI"/>
+		<Row Civilization="Civilization_Era6_Japan" Aliases="JAPAN"/>
+		<Row Civilization="Civilization_Era6_Nigeria" Aliases="USA,ENGLAND"/>
+		<Row Civilization="Civilization_Era6_Turkey" Aliases="OttomanEmpire"/>
+		<Row Civilization="Civilization_Era6_USA" Aliases="AMERICAN,ENGLAND"/>
+		<Row Civilization="Civilization_Era6_USSR" Aliases="RussianEmpire,RUSSIA"/>
+	</CivilizationCityAliases>
+
+</GameData>
